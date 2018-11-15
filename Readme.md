@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/WinSolution.Win/Program.cs) (VB: [Program.vb](./VB/WinSolution.Win/Program.vb))
+<!-- default file list end -->
 # OBSOLETE - How to focus a search box corresponding to the FullTextFilterAction, once a root ListView is opened in a Windows Forms application
 
 
